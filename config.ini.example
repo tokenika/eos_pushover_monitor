@@ -1,0 +1,66 @@
+[Pushover]
+Token = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+UserKey = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+[SuperHero3]
+# comma separated list of block producer account names to monitor
+monitor_names = rogue,juggernaut
+juggernaut = http://eosgreen.uk.to:8889
+storm = http://ctestnet.eosio.se:8887
+batman = http://54.194.49.21:8833
+tom = http://superhero.cryptolions.io:8897
+venom = http://venom.eoscalgary.com:80
+joker = http://joker.superhero.eos.roelandp.nl:8763
+hellboy = http://ctestnet.eosdetroit.com:8889
+cyclops = http://bp7-d3.eos42.io:8888
+wakanda = http://superheroes.eosio.africa:8888
+wakanda2 = http://156.38.160.91:8888
+spiderman = http://166.70.202.194:8080
+jigsaw = http://18.188.52.250:8899
+ironman = http://ctest.eosnewyork.io:8887
+hook = http://35.195.161.56:8888
+robin = http://159.89.197.162:8889
+rogue = http://198.100.148.136:8888
+daredevil = http://bp.blockgenic.io:8888
+magneto = http://47.52.18.70:9000
+doom = http://120.27.130.60:8888
+megatron = http://ctest.koreos.io:8888
+superman = http://ctestnet.objectcomputing.com:8888
+beast = http://test.eosys.io:8887
+stealth = http://stealthbp.ddns.net:8888
+mystique = http://138.68.15.85:8888
+rita = http://47.88.222.80:8888
+riddler = http://54.233.222.22:8887
+ursula = http://39.108.231.157:8899
+aquaman = http://ctestnet.eoshenzhen.io:8888
+electra = http://eosbp.enjoyshare.net:8888
+skeletor = http://128.1.39.27:8888
+gargamel = http://46.4.253.242:7615
+hulk = http://superhero-bp1.eosphere.io:8888
+xavier = http://138.68.238.129:8888
+
+
+[TrinityGroup]
+# comma separated list of block producer account names to monitor
+monitor_names = tokenika,eosio
+eosio = http://eosslc.com:4003
+eostribe = http://eosslc.com:4403
+eosdac = http://trinity.eosdac.io:8678
+edenx = http://trinity.edenx.io:8288
+cryptolions = http://trinity.cryptolions.io:5888
+eosrio = http://trinity.eosrio.io:443
+eosioafrica = http://trinity.eosio.africa:8891
+eoscannon = http://119.3.23.72:8888
+hkeos = http://alessia.hkeos.com:8886
+eosgravity = http://47.52.18.70:8989
+saltblock = http://trinity.saltblock.io:8888
+eosasia = http://bp-test.eosasia.one:9800
+topone = http://47.75.56.208:8888
+EOSWenzhou = http://net.eoswz.com:8888
+viabtc = http://bp_test.viaeos.com:8588
+eossocal = http://trinity.eosocal.io:8887
+eospace = http://trinity.eosblock.co:80
+eosamsterdam = http://trinity.bptn.eosamsterdam.net:18888
+tokenika = http://198.100.148.136:7777
+eoseco = http://trinity.eoseco.com:443
+eosgames = http://35.231.166.185:8888
